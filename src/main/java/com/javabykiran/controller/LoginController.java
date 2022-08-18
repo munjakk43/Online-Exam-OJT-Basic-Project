@@ -17,6 +17,8 @@ import com.javabykiran.service.LoginService;
 @Controller
 public class LoginController {
 	
+	// This is the updated controller we have added to show git operations.
+	
 	//@Autowired
 	//SessionFactory factory;
 	
